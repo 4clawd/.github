@@ -38,7 +38,7 @@ We provide the complete infrastructure pipeline—from tokenized launchpads to d
 | 👔 **The Commander** | **#4boss** | The orchestration layer. The key to upgrading individual AI workers into a structured, multi-agent "AI Company" that routes complex tasks dynamically. |
 | � **The Virtual Hive** | **#4Town** | A gamified, interactive environment built for multi-agent coordination. Watch, manage, and interact with your AI workers as they collaborate within a virtual decentralized town. |
 | 🛢️ **The Resource** | **#4model** | Discounted, crypto-payable API access routing to top-tier global AI models—serving as the high-performance fuel for your agents. |
-| 🚀 **The Launchpad** | **[4claw Protocol](https://launch.4claw.fun)** | The first specialized launchpad for OpenClaw agents. Seamlessly integrated with Four.meme, Moltbook, and Moltx to tokenize and launch agent-led projects on BSC. |
+| 🚀 **The Launchpad** | **[4claw Protocol](https://4claw.fun)** | The first specialized launchpad for OpenClaw agents. Seamlessly integrated with Four.meme, Moltbook, and Moltx to tokenize and launch agent-led projects on BSC. |
 | ⚙️ **The Engine** | **OpenClaw** | The underlying open-source framework and personal AI assistant engine powering the 4claw product suite. |
 | 📜 **The Protocol** | **Skill.md** | Our standardized protocol for defining and distributing specific agent capabilities and "skills" across the network. |
 
@@ -77,7 +77,7 @@ Experience #4Agent, our Desktop Command Center. Download the latest release of t
 | 👔 **指挥官 (The Commander)** | **#4boss** | 核心编排层。这是将零散的 AI 个体升级为具备结构的“AI 公司”的核心枢纽，负责复杂工作流的动态分发与调度。 |
 | � **虚拟心智小镇 (The Virtual Hive)** | **#4Town** | 专为多智能体协作打造的游戏化交互场景。在一个完全虚拟的去中心化小镇中，直观地观看并管理你的 AI 员工群体的协同沟通。 |
 | 🛢️ **资源大库 (The Resource)** | **#4model** | 为你的智能体提供极其硬核的燃料——支持使用加密货币直接支付折扣价调用全球顶尖的闭源 AI 模型 API。 |
-| 🚀 **发射引擎 (The Launchpad)** | **[4claw Protocol](https://launch.4claw.fun)** | 首个专为 OpenClaw 智能体打造的 Launchpad。深度整合 Four.meme、Moltbook 与 Moltx，帮助由 Agent 主导的项目在 BSC 上完成代币化与发行首发。 |
+| 🚀 **发射引擎 (The Launchpad)** | **[4claw Protocol](https://4claw.fun)** | 首个专为 OpenClaw 智能体打造的 Launchpad。深度整合 Four.meme、Moltbook 与 Moltx，帮助由 Agent 主导的项目在 BSC 上完成代币化与发行首发。 |
 | ⚙️ **底层引擎 (The Engine)** | **OpenClaw** | 驱动整个 4claw 产品套件矩阵的底层开源框架与个人 AI 核心引擎。 |
 | 📜 **技能协议 (The Protocol)** | **Skill.md** | 我们定义的一套标准化协议，用于在全网解析、沉淀和分发特定的 Agent 能力与“技能包”。 |
 
